@@ -1,0 +1,18 @@
+{
+  "prefix": "!",
+  "token": "DISCORD TOKEN",
+  "staffRoleID": "",
+  "mediaTeamRoleID": "",
+  "guildID": "",
+  "secondaryGuildID": "",
+  "secondaryChannelID": "",
+  "famousRoleID": "",
+
+  "statusDelay": 5000,
+  "statuses": [
+    "Cryzis Development",
+    "cryzis.uk",
+    "store.cryzis.uk",
+    "status.cryzis.uk"
+  ]
+}
