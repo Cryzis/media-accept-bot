@@ -2,7 +2,7 @@
 A simple discord.js bot that allows certain users to use accept other members onto the media/famous team. This bot would automatically create a invite to the user to join the media discord and would give them a rank in the main discord as well. This can be an addon to a existing discord ticket bot or you can simply use it as it's original state.
 
 ## Installation
-You need to install the [discord.js](https://cryzis.uk) package for the bot to work. 
+You need to install the [discord.js](https://discord.js.org/) package for the bot to work. 
 ```bash
 npm install discord.js
 ```
